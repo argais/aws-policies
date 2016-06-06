@@ -10,3 +10,7 @@ I use this one whenever someone asks me for a key to use with their jenkins/ansi
 #### allow_iam_change_password
 
 Created a user, assigned a password, flagged to change it on first login, minutes later a ticket pops up on jira with "i cant change my password"??? Here's your solution
+
+#### s3_website
+
+Bucket policy. Allows read permission on all objects in a bucket, useful when you're hosting a static website on s3
