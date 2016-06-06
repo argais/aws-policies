@@ -29,7 +29,7 @@ I'll update this once I manage to get that working. If you have it, feel free to
 }
 ```
 
-## Restricts start/stop/reboot/terminate to instances with certain tag created_by_magic
+## Restricts start/stop/reboot/terminate to instances with tag created_by_magic
 
 ```
 {
