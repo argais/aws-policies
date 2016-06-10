@@ -14,3 +14,7 @@ Created a user, assigned a password, flagged to change it on first login, minute
 #### s3_website
 
 Bucket policy. Allows read permission on all objects in a bucket, useful when you're hosting a static website on s3
+
+#### allow_assume_admin_role
+
+Allows another account to assume an admin role on your account. Nice when you got several accounts but centralized IAM logins in just one of them.
